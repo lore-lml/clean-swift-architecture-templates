@@ -18,7 +18,7 @@ class ___VARIABLE_sceneName___SceneAdapter {
     private init() {}
     
     // MARK: Dependency Injection
-    static func setup(input: ___VARIABLE_sceneName___SceneModels.Input? = nil, assembler: Assembler? = nil) -> UIViewController{
+    static func setup(input: ___VARIABLE_sceneName___.Input? = nil, assembler: Assembler? = nil) -> UIViewController{
         
         guard let assembler = assembler,
               let navigator = assembler.resolver.resolve(IAppNavigator.self)

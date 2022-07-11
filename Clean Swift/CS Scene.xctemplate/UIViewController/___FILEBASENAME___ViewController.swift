@@ -19,7 +19,7 @@ class ___VARIABLE_sceneName___SceneViewController: UIViewController {
     
     var router: I___VARIABLE_sceneName___SceneRouter!
     var interactor: I___VARIABLE_sceneName___SceneInteractor!
-    var input: ___VARIABLE_sceneName___SceneModels.Input?
+    var input: ___VARIABLE_sceneName___.Input?
     
     // MARK: OUTLETS
     

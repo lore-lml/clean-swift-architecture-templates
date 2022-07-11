@@ -9,19 +9,19 @@
 //  https://github.com/lore-lml
 
 
-struct ___VARIABLE_sceneName___SceneModels {
+struct ___VARIABLE_sceneName___{
     struct Input{
         
     }
 }
 
 // MARK: Models for passing data to other routes
-extension ___VARIABLE_sceneName___SceneModels{
+extension ___VARIABLE_sceneName___{
     
 }
 
 
 // MARK: VIP - USE CASES
-extension ___VARIABLE_sceneName___SceneModels{
+extension ___VARIABLE_sceneName___{
     // type `usecases` for magic
 }
