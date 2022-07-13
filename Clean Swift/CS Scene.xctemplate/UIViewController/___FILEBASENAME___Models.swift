@@ -9,7 +9,7 @@
 //  https://github.com/lore-lml
 
 
-struct ___VARIABLE_sceneName___{
+enum ___VARIABLE_sceneName___{
     struct Input{
         
     }
