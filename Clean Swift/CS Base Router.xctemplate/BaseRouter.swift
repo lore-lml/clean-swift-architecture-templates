@@ -34,8 +34,9 @@ class BaseRouter: IRouter{
     func showRoute(route: BaseRoutes){
         switch route {
         case .home(let input):
-            let controller = HomeSceneAdapter.setup(input: input, assembler: assembler)
-            navigator!.setRootController(controller)
+//            let controller = HomeSceneAdapter.setup(input: input, assembler: assembler)
+//            navigator!.setRootController(rootType: .singleStack(controller: controller)
+            break
         }
     }
     

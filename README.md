@@ -23,3 +23,7 @@ To uninstall the Clean Swift Xcode templates and snippets, run:
 ```
 make uninstall
 ```
+
+# Dependencies
+- [Swinject](https://github.com/Swinject/Swinject)
+- SwiftRouting
